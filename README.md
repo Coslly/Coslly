@@ -7,4 +7,4 @@ About languages, I can speak three: Chinese(MT),Korean,English
 
 ## Support me (Even a little!!!) 🥳
 - [Paypal](https://paypal.me/Coslly)
-- [Alipay](https://github.com/Coslly/Coslly/blob/main/Alipay.jpg?raw=true)
+- [Alipay](https://github.com/Coslly/Coslly/blob/main/Alipay.jpg)
