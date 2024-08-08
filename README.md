@@ -5,5 +5,5 @@ I will occasionally post things I am interested in or have made on Github.
 
 About languages, I can speak three: Chinese(MT),Korean,English
 
-## Sponsor me 🥳
-https://paypal.me/Coslly
+## Support me 🥳
+- [Paypal](https://paypal.me/Coslly)
