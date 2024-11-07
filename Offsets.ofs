@@ -1,4 +1,4 @@
-//2024-11-07 15:20
+//2024-11-07 16:50
 
 //dwLocalPlayerController
 0x1A2D590
@@ -15,7 +15,7 @@
 //m_iTeamNum
 0x3E3
 //m_ArmorValue
-0x2404
+0x240C
 //m_iHealth
 0x344
 //m_iIDEntIndex
@@ -23,13 +23,13 @@
 //m_fFlags
 0x3EC
 //m_iShotsFired
-0x23E4
+0x23EC
 //m_vecVelocity
 0x400
 //m_entitySpottedState + m_bSpotted
-0x23C0
+0x23C8
 //m_bIsScoped
-0x23D0
+0x23D8
 //m_pClippingWeapon
 0x13A0
 //m_pGameSceneNode
