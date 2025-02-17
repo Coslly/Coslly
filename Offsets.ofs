@@ -1,4 +1,4 @@
-//2025-2-14 11:26:55
+//2025-2-17 13:15:53
 
 //dwLocalPlayerController
 0x1A87030
@@ -10,6 +10,8 @@
 0x1AABA40
 //dwViewMatrix
 0x1AA17B0
+//dwGameTypes + dwGameTypes_mapName
+0x1A42D0
 //m_hPlayerPawn
 0x80C
 //m_iTeamNum
