@@ -1,4 +1,4 @@
-//2025-2-17 13:15:53
+//2025-02-22 10:00:00
 
 //dwLocalPlayerController
 0x1A87030
@@ -56,3 +56,5 @@
 0x1352
 //m_angEyeAngles
 0x1438
+//m_steamID
+0x6E8
