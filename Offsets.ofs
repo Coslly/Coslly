@@ -1,17 +1,17 @@
-//2025-02-22 10:00:00
+//2025-2-28 10:24:14
 
 //dwLocalPlayerController
-0x1A87030
+0x1A88060
 //dwLocalPlayerPawn
-0x1889F20
+0x188AF10
 //dwEntityList
-0x1A359B0
+0x1A369E0
 //dwViewAngles
-0x1AABA40
+0x1AACA60
 //dwViewMatrix
-0x1AA17B0
+0x1AA27D0
 //dwGameTypes + dwGameTypes_mapName
-0x1A42D0
+0x1A32B0
 //m_hPlayerPawn
 0x80C
 //m_iTeamNum
@@ -56,5 +56,3 @@
 0x1352
 //m_angEyeAngles
 0x1438
-//m_steamID
-0x6E8
