@@ -1,15 +1,15 @@
-//2025-05-08 00:00:00
+//2025-05-09 00:00:00
 
 //dwLocalPlayerController
-0x1A45A80
+0x1A459E0
 //dwLocalPlayerPawn
-0x184B0B0
+0x184B0D0
 //dwEntityList
-0x19F6FA0
+0x19F6F00
 //dwViewAngles
-0x1A6A210
+0x1A6A2C0
 //dwViewMatrix
-0x1A5FF70
+0x1A5FED0
 //dwGameTypes + dwGameTypes_mapName
 0x1A32B0
 //m_hPlayerPawn
