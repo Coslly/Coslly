@@ -1,17 +1,17 @@
-//2025-07-30 16:10:36
+//2025-07-30 00:00:00
 
 //dwLocalPlayerController
-0x1D100C0
+0x1D10200
 //dwLocalPlayerPawn
-0x1AF4A20
+0x1AF4B00
 //dwEntityList
-0x1CBE4A0
+0x1CBE5B0
 //dwViewAngles
-0x1D2C5C0
+0x1D2C740
 //dwViewMatrix
-0x1D21800
+0x1D21980
 //dwGameTypes + dwGameTypes_mapName
-0x367E20
+0x1B4030
 //m_hPlayerPawn
 0x8FC
 //m_iTeamNum
@@ -23,13 +23,13 @@
 //m_iIDEntIndex
 0x1734
 //m_fFlags
-0x63
+0x3F8
 //m_iShotsFired
 0x28C4
 //m_vecVelocity
 0x430
 //m_entitySpottedState + m_bSpotted
-0x1D60
+0x28A0
 //m_bIsScoped
 0x28B0
 //m_pClippingWeapon
@@ -53,7 +53,7 @@
 //m_unTotalRoundDamageDealt
 0x130
 //m_AttributeManager + m_Item + m_iItemDefinitionIndex
-0x1652
+0x15AA
 //m_angEyeAngles
 0x16A0
 //m_steamID
