@@ -1,4 +1,4 @@
-//2025-08-27 00:00:00
+//2025-08-28 00:00:00
 
 //dwLocalPlayerController
 0x1E19010
@@ -7,7 +7,7 @@
 //dwEntityList
 0x1D0FE08
 //dwViewAngles
-0x1E37EF0
+0x1E37BE0
 //dwViewMatrix
 0x1E2D030
 //dwGameTypes + 0x120
