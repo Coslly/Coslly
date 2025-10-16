@@ -3,7 +3,7 @@ Repo_URL = "https://github.com/a2x/cs2-dumper/blob/main/output/";
 dwLocalPlayerController = 0x1E0A348;
 dwLocalPlayerPawn = 0x1BDBB10;
 dwEntityList = 0x1D00690;
-dwViewAngles = 0x1E28EA0;
+dwViewAngles = 0x1E28EB0;
 dwViewMatrix = 0x1E1E920;
 dwMapName = 0x1B6000;
 dwPlantedC4 = 0x1E23278;
@@ -32,3 +32,4 @@ m_iItemDefinitionIndex = 0x159A;
 m_angEyeAngles = 0x3DF0;
 m_nBombSite = 0x1164;
 m_flTimerLength = 0x1198;
+
