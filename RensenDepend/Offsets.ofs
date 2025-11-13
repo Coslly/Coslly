@@ -1,10 +1,10 @@
-Offsets_Date = "2025-11-05";
+Offsets_Date = "2025-11-13";
 Repo_URL = "https://github.com/Coslly/cs2-dumper/blob/main/output/";
-dwLocalPlayerController = 0x1E19AD0;
-dwLocalPlayerPawn = 0x1BEAEB8;
-dwEntityList = 0x1D0FBE8;
-dwViewAngles = 0x1E38670;
-dwViewMatrix = 0x1E2E0F0;
+dwLocalPlayerController = 0x1E1ABE8;
+dwLocalPlayerPawn = 0x1BEBF38;
+dwEntityList = 0x1D10CF8;
+dwViewAngles = 0x1E397F0;
+dwViewMatrix = 0x1E2F3D0;
 dwMapName = 0x1B6000;
 dwPlantedC4 = 0x1E33590;
 m_hPlayerPawn = 0x8FC;
