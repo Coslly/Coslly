@@ -6,7 +6,7 @@ dwEntityList = 0x1D10CF8;
 dwViewAngles = 0x1E397F0;
 dwViewMatrix = 0x1E2F3D0;
 dwMapName = 0x1B6000;
-dwPlantedC4 = 0x1E33590;
+dwPlantedC4 = 0x1E33BD8;
 m_hPlayerPawn = 0x8FC;
 m_steamID = 0x770;
 m_iTeamNum = 0x3EB;
@@ -32,3 +32,4 @@ m_iItemDefinitionIndex = 0x159A;
 m_angEyeAngles = 0x3DF0;
 m_nBombSite = 0x1164;
 m_flTimerLength = 0x1198;
+
