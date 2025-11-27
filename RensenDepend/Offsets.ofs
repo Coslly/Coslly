@@ -1,4 +1,4 @@
-Offsets_Date = "2025-11-20";
+Offsets_Date = "2025-11-27";
 Repo_URL = "https://github.com/a2x/cs2-dumper/blob/main/output/";
 dwLocalPlayerController = 0x1E1BBD8;
 dwLocalPlayerPawn = 0x1BECF38;
