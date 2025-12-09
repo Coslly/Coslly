@@ -1,6 +1,6 @@
-Offsets_Date = "2025-12-06";
+Offsets_Date = "2025-12-09";
 Repo_URL = "https://github.com/Coslly/cs2-dumper/blob/main/output/";
-dwLocalPlayerController = 0x1E1CC08;
+dwLocalPlayerController = 0x1E1CC18;
 dwLocalPlayerPawn = 0x1BEDF28;
 dwEntityList = 0x1D12CE8;
 dwViewAngles = 0x1E3B800;
@@ -32,5 +32,3 @@ m_iItemDefinitionIndex = 0x159A;
 m_angEyeAngles = 0x3DF0;
 m_nBombSite = 0x1164;
 m_flTimerLength = 0x1198;
-
-
