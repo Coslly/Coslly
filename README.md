@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Coslly 😄
+
 I am a Chinese student currently studying in South Korea.
 
-I will occasionally post things I am interested in or have made on Github.
+I occasionally post things I am interested in or have created on GitHub.
 
-About languages, I can speak three: Chinese(MT),Korean,English
+As for languages, I can speak three: Chinese, Korean, and English.
