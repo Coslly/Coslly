@@ -1,5 +1,4 @@
 Offsets_Date = "2026-03-29";
-Repo_URL = "https://github.com/Coslly";
 dwLocalPlayerController = 0x22F5028;
 dwLocalPlayerPawn = 0x206A9E0;
 dwEntityList = 0x24B0258;
