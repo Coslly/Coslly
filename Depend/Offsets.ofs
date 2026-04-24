@@ -1,5 +1,5 @@
-Offsets_Date = "2026-04-22";
-dwLocalPlayerController = 0x2308540;
+Offsets_Date = "2026-04-24";
+dwLocalPlayerController = 0x2308520;
 dwLocalPlayerPawn = 0x20547A0;
 dwEntityList = 0x24CED50;
 dwViewAngles = 0x233E408;
