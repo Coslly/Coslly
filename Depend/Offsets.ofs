@@ -1,4 +1,4 @@
-Offsets_Date = "2026-05-01";
+Offsets_Date = "2026-05-02";
 dwLocalPlayerController = 0x230B5D0;
 dwLocalPlayerPawn = 0x2057720;
 dwEntityList = 0x24D1DF0;
@@ -33,3 +33,4 @@ m_iItemDefinitionIndex = 0x138A;
 m_angEyeAngles = 0x3360;
 m_nBombSite = 0x1164;
 m_flTimerLength = 0x1198;
+m_iPing = 0x820;
