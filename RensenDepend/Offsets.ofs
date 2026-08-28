@@ -1,4 +1,4 @@
-Offsets_Date = "2026-08-28  5555";
+Offsets_Date = "2026-08-28 ALPHA";
 dwLocalPlayerController = 0x23A0F30;
 dwLocalPlayerPawn = 0x23C6268;
 dwEntityList = 0x2571230;
