@@ -1,8 +1,8 @@
-Offsets_Date = "2026-08-28";
+Offsets_Date = "2026-08-29";
 dwLocalPlayerController = 0x23A0F30;
 dwLocalPlayerPawn = 0x23C6268;
-dwEntityList = 0x2571230;
-dwViewAngles = 0x23DC308;
+dwEntityList = 0x2571220;
+dwViewAngles = 0x23DC2F8;
 dwViewMatrix = 0x23CB830;
 dwMapName = 0x1AE0A0;
 dwPlantedC4 = 0x2390A18;
